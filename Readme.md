@@ -1,5 +1,5 @@
 1. Technical & Direct
-Passionate software engineer specializing in scalable backend systems and cloud architecture. Currently building microservices with Go & Kubernetes. Open to collaborating on open-source projects in distributed systems and DevOps.
+    Currently building microservices with Go & Kubernetes. Open to collaborating on open-source projects in distributed systems and DevOps.
 
 ---
 
