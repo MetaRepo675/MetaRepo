@@ -4,7 +4,7 @@ Passionate software engineer specializing in scalable backend systems and cloud 
 ---
 
 2. Role-Focused
-DevOps engineer with 5+ years of experience in CI/CD, infrastructure as code, and cloud security. Automating deployments with Terraform and AWS. Writing about system reliability on my blog. Let’s build resilient systems together.
+DevOps  with 5+ years of experience in CI/CD, infrastructure as code, and cloud security. Automating deployments with Terraform and AWS. Writing about system reliability on my blog. Let’s build resilient systems together.
 
 ---
 
