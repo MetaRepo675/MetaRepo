@@ -1,4 +1,5 @@
 1. Technical & Direct
+
     Currently building microservices with Go & Kubernetes. Open to collaborating on open-source projects in distributed systems and DevOps.
 
 ---
