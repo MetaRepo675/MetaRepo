@@ -4,7 +4,7 @@
 ---
 
 2. Role-Focused
-DevOps  with 5+ years of experience in CI/CD, infrastructure as code, and cloud security. Automating deployments with Terraform and AWS. Writing about system reliability on my blog. Let’s build resilient systems together.
+developer with 5+ years of experience in CI/CD, infrastructure as code, and cloud security. Automating deployments with Terraform and AWS. Writing about system reliability on my blog. Let’s build resilient systems together.
 
 ---
 
